@@ -1,0 +1,26 @@
+Source: python-aiofiles
+Section: python
+Priority: optional
+Standards-Version: 4.5.0
+Maintainer: Wong Hoi Sing Edison <hswong3i@gmail.com>
+Homepage: https://github.com/Tinche/aiofiles/tags
+Vcs-Browser: https://github.com/alvistack/Tinche-aiofiles
+Vcs-Git: https://github.com/alvistack/Tinche-aiofiles.git
+Build-Depends:
+ debhelper,
+ debhelper-compat (= 10),
+ dh-python,
+ fdupes,
+ python3-dev,
+ python3-setuptools,
+
+Package: python3-aiofiles
+Architecture: all
+Description: File support for asyncio
+ aiofiles is an Apache2 licensed library, written in Python, for handling
+ local disk files in asyncio applications.
+Depends:
+ ${misc:Depends},
+ ${shlibs:Depends},
+ ${python3:Depends},
+ python3,
