@@ -1,0 +1,5 @@
+python-aiofiles (100:22.1.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/Tinche/aiofiles/releases/tag/v22.1.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 10 Aug 2023 11:24:03 +0800
