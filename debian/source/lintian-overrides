@@ -1,0 +1,4 @@
+python-aiofiles source: file-without-copyright-information
+python-aiofiles source: no-debian-changes
+python-aiofiles source: source-contains-prebuilt-windows-binary
+python-aiofiles source: source-package-encodes-python-version
