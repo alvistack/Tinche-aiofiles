@@ -1,0 +1,4 @@
+python3-aiofiles: copyright-without-copyright-notice
+python3-aiofiles: initial-upload-closes-no-bugs
+python3-aiofiles: no-manual-page
+python3-aiofiles: zero-byte-file-in-doc-directory
